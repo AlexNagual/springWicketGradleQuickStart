@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.danekja:jdk-serializable-functional:1.8.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.danekja/jdk-serializable-functional/1.8.3/8787bf3da08512caadb74d50c072337af7af431b/jdk-serializable-functional-1.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.danekja/jdk-serializable-functional/1.8.3/2bbc85e6ccbe2610dc06f7753fb87ca55566d964/jdk-serializable-functional-1.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
